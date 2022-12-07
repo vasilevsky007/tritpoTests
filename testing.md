@@ -83,8 +83,7 @@
 
 <details>
 <summary>открываем приложение нажимая на иконку</summary>
-- ![открываем приложение нажимая на иконку][1]
-[1]:  /images/open.jpg
+![open] (/images/open.jpg)
 </details>
 
 <details>
